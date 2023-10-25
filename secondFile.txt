@@ -1,5 +1,5 @@
-eleven
-twelve
+eleven-number 11
+twelve-number 12
 thirteen
 fourteen
 fifteen

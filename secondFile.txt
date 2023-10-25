@@ -1,5 +1,7 @@
 eleven-number 11
 twelve-number 12
+eleven-11
+twelve-12
 thirteen
 fourteen
 fifteen

@@ -2,9 +2,16 @@ one-1
 two-2
 three-3
 four-4
+<<<<<<< HEAD
 five
 six
 seven-7
 eight-8
+=======
+five-5
+six-6
+seven
+eight
+>>>>>>> 670edf8691b90c47b35550e17dc379201609626a
 nine
 ten
